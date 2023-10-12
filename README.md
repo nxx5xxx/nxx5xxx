@@ -7,7 +7,20 @@
 - 💞️ 블로그 : [현재 사용 안하는중](https://nxx5xxx.tistory.com/)
 - 🌱 문의 : dnwnx123@naver.com
 
+---
+## 📃프로젝트
+- 👤 챗봇프로젝트-개발중[Spring Boot] [기술코드로 이동](https://github.com/nxx5xxx/chatbot)
+- 😼 고봉프로젝트[Spring Legacy] [기술코드로 이동](https://github.com/nxx5xxx/gobong)
+- 🏢 함안문화관광[Servlet] [기술코드로 이동](https://github.com/nxx5xxx/pro03)
+- 💰 소프라노몰 Boot버전 -readme.md를 작성중[Spring Boot] [기술코드로 이동](https://github.com/nxx5xxx/springBoot/tree/master/smallProject)
+- 💰 소프라노몰[Servlet] [기술코드로 이동](https://github.com/nxx5xxx/pro02)
+- 🍷 떼루아 와인아울렛[jsp날코딩] [기술코드로 이동](https://github.com/nxx5xxx/pro01)
 
+[프로필페이지](https://nxx5xxx.github.io/) 에 접속하면 고봉프로젝트 , 함안문화관광 ,소프라노몰 , 떼루아와인아울렛 프로젝트에 관한 설명과 시연페이지에 접속해 볼 수 있어요!
+    
+   
+
+---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nxx5xxx&layout=compact&theme=tokyonight&hide=html)
 
 <!---
