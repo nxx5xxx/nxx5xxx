@@ -8,7 +8,7 @@
 - 🌱 문의 : dnwnx123@naver.com
 
 ---
-## 📃프로젝트
+## 프로젝트
 - 👤 챗봇프로젝트-개발중[Spring Boot] [기술코드로 이동](https://github.com/nxx5xxx/chatbot)
 - 😼 고봉프로젝트[Spring Legacy] [기술코드로 이동](https://github.com/nxx5xxx/gobong)
 - 🏢 함안문화관광[Servlet] [기술코드로 이동](https://github.com/nxx5xxx/pro03)
@@ -19,7 +19,7 @@
 [프로필페이지](https://nxx5xxx.github.io/) 에서 고봉프로젝트, 함안문화관광, 소프라노몰, 떼루아와인아울렛 에 관한 설명과 시연페이지에 접속해 볼 수 있어요!
 
 ---
-## 학습한 목록
+## 학습목록
 - ☕ JAVA - 이것이 자바다 를 기준으로 학습했어요. [링크](https://github.com/nxx5xxx/java) // [프로그래머스](https://github.com/nxx5xxx/programmers)
 - 🛴 Spring MVC (Legacy) - 해당 학습 날짜를 누르면 자세히 볼 수 있어요 [링크1](https://github.com/nxx5xxx/spring) 
 [링크2](https://github.com/nxx5xxx/spring2)
