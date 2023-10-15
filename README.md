@@ -29,6 +29,7 @@
 - 🟢 Python - [링크](https://github.com/nxx5xxx/python/tree/master/project)
 - ©&nbsp;&nbsp;&nbsp;C - [링크](https://github.com/nxx5xxx/C)
 - 🤾‍♀️ Git - [링크](https://github.com/nxx5xxx/study/blob/master/about_git.md)
+- 💢 Study - [링크](https://github.com/nxx5xxx/study)
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nxx5xxx&layout=compact&theme=tokyonight&hide=html)
