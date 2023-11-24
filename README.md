@@ -22,6 +22,7 @@
 ## 학습목록
 - ☕ JAVA - 이것이 자바다 를 기준으로 학습했어요. [링크](https://github.com/nxx5xxx/java) // [프로그래머스](https://github.com/nxx5xxx/programmers)
 - ☕ JavaDictionary - 옵시디언을 활용하여 자바를 정리중이에요 [링크](https://github.com/nxx5xxx/obsidian/tree/master/javaDictionary)
+- 🧂 Spring - 스프링에 대해 부족한 이론적 지식들을 정리중 이에요 [링크](https://github.com/nxx5xxx/obsidian/blob/master/springDictionary/readme.md)
 - ❔ RestAPI - 프리온보딩 참여하기 위해 작성. [링크](https://github.com/nxx5xxx/wanted-pre-onboarding-backend)
 - 🛴 Spring MVC (Legacy) - 해당 학습 날짜를 누르면 자세히 볼 수 있어요 [링크1](https://github.com/nxx5xxx/spring) 
 [링크2](https://github.com/nxx5xxx/spring2)
