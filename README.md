@@ -12,7 +12,7 @@
 ## 프로젝트
 - 🏁 전자도서관 마이그레이션 프로젝트[Linux, PHP]
 - 🚩 전자도서관 고도화 프로젝트[PHP, Linux]
-- 👤 챗봇프로젝트-개발중[Spring Boot] [기술코드로 이동](https://github.com/nxx5xxx/chatbot)
+- 👤 챗봇프로젝트[Spring Boot] [기술코드로 이동](https://github.com/nxx5xxx/chatbot)
 - 😼 고봉프로젝트[Spring Legacy] [기술코드로 이동](https://github.com/nxx5xxx/gobong)
 - 🏢 함안문화관광[Servlet] [기술코드로 이동](https://github.com/nxx5xxx/pro03)
 - 💰 소프라노몰 Boot버전 -readme.md를 작성중[Spring Boot] [기술코드로 이동](https://github.com/nxx5xxx/springBoot/tree/master/smallProject)
