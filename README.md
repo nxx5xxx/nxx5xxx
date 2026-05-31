@@ -1,5 +1,5 @@
 - 👋 안녕하세요!! @nxx5xxx
-- 👀 현재 취업 준비중에 있습니다!
+- 👀 현재 구직중에 입니다!
 - ✨ 전 직장 : 북토비 인사이트 코리아
 - 🎈 기술스택 : PHP, Java , C , Python , Spring MVC , Spring Boot , JavaScript , SolidWorks , Photoshop , Illustrator , 3Ds Max , Flash
 - 👷‍♀️ 특이사항 : 야가다김씨 - 중장비 ( 타워크레인 , 지게차 , 4.5톤트럭 ) , 각종시공 및 철거 작업 등 경력 도합 8년
@@ -10,6 +10,8 @@
 
 ---
 ## 프로젝트
+- 🏁 전자도서관 마이그레이션 프로젝트[Linux, PHP]
+- 🚩 전자도서관 고도화 프로젝트[PHP, Linux]
 - 👤 챗봇프로젝트-개발중[Spring Boot] [기술코드로 이동](https://github.com/nxx5xxx/chatbot)
 - 😼 고봉프로젝트[Spring Legacy] [기술코드로 이동](https://github.com/nxx5xxx/gobong)
 - 🏢 함안문화관광[Servlet] [기술코드로 이동](https://github.com/nxx5xxx/pro03)
