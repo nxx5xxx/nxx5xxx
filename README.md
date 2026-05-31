@@ -1,6 +1,7 @@
 - 👋 안녕하세요!! @nxx5xxx
-- 👀 현재 북토비 개발팀에 속해있습니다!
-- 🎈 기술스택 : Java , C , Python , Spring MVC , Spring Boot , JavaScript , SolidWorks , Photoshop , Illustrator , 3Ds Max , Flash
+- 👀 현재 취업 준비중에 있습니다!
+- ✨ 전 직장 : 북토비 인사이트 코리아
+- 🎈 기술스택 : PHP, Java , C , Python , Spring MVC , Spring Boot , JavaScript , SolidWorks , Photoshop , Illustrator , 3Ds Max , Flash
 - 👷‍♀️ 특이사항 : 야가다김씨 - 중장비 ( 타워크레인 , 지게차 , 4.5톤트럭 ) , 각종시공 및 철거 작업 등 경력 도합 8년
 
 - 😂 블로그에 올릴시간까지 쪼갤여유가 안나서 현재는 깃허브만 사용중입니다
